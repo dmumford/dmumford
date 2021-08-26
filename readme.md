@@ -3,9 +3,8 @@
 #### **Contact:** [github@davidmumford.co.uk](mailto:github@davidmumford.co.uk)
 
 * Self-taught Developer (HTML/CSS/JS/jQuery/PHP/MySQL/Python)
-* MSc Computer Science student
 * BA (Hons) Business and Management
-* Work experience in Education
+* Online Educator
 
 ## Projects
 
@@ -21,7 +20,6 @@
 
 ## Education
 
-* MSc Computer Science (in progress) - [University of York](https://www.york.ac.uk/)
 * BA (Hons) Business and Management - [University of Hull](https://www.hull.ac.uk/)
 
 ## Hobbies
