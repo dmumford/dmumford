@@ -4,15 +4,14 @@
 
 * Self-taught Developer (HTML/CSS/JS/jQuery/PHP/MySQL/Python)
 * BA (Hons) Business and Management
-* Online Educator
 
 ## Projects
 
 * [Flashcards](https://github.com/dmumford/Flashcards/) - A GUI application written in Python to display Chinese/English Flashcards, with Navigation and Audio support. Originally developed in PHP/MySQL and jQuery/AJAX for the web.
 * [UK School Map](https://github.com/dmumford/UK-School-Map) - A python script which takes data of Education Institutes (Schools, Colleges, Universities, ..) from a MySQL database and gets their longitude and latitude coordinates and plots them on a map. See [map.html](https://github.com/dmumford/UK-School-Map/blob/main/map.html) for example of Script output.
-* [TLT Memocopier](https://memocopier.com) - A niche members-only website designed for ESL Teachers. The website is based around a database of 'memo' templates which users can search and/or contribute to.
-* [Hangman - Country Edition](https://memocopier.com/learn/games/hangman/) - A basic Hangman game (Guess the Country)
-* [Interactive Clock](https://memocopier.com/learn/resources/clock) - Purposefully made to help students learn to tell the time. Users can drag the hour and minute hands on the clock to change the time. A description of the time is shown below the clock. Users can switch to 'test' mode where the descriptive sentence is hidden.
+* [TLT Memocopier](https://memocopier.com) - A niche members-only website designed for ESL Teachers. The website is based around a database of 'memo' templates which users can search and/or contribute to. - OFFLINE
+* [Hangman - Country Edition](https://memocopier.com/learn/games/hangman/) - A basic Hangman game (Guess the Country) - OFFLINE
+* [Interactive Clock](https://memocopier.com/learn/resources/clock) - Purposefully made to help students learn to tell the time. Users can drag the hour and minute hands on the clock to change the time. A description of the time is shown below the clock. Users can switch to 'test' mode where the descriptive sentence is hidden. - OFFLINE
 
 ### Other Projects
 
